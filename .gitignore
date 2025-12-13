@@ -1,1 +1,6 @@
 /out/ 
+# Ignore IntelliJ project settings
+.idea/
+
+# Ignore IntelliJ module files
+*.iml
