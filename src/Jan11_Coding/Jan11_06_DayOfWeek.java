@@ -1,4 +1,4 @@
-package CodingTests;
+package Jan11_Coding;
 
 import java.util.Scanner;
 //Write a Java program to print the name of the day based on a number (1–7) using a switch statement.

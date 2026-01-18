@@ -1,4 +1,4 @@
-package CodingTests;
+package Jan11_Coding;
 
 import java.util.Scanner;
 //Write a Java program to perform addition, subtraction, multiplication, or division based on user choice using a switch statement.

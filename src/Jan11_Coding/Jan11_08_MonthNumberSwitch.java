@@ -1,4 +1,4 @@
-package CodingTests;
+package Jan11_Coding;
 
 import java.util.Scanner;
 //Write a Java program to print the month name based on the month number (1–12) using a switch statement.

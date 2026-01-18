@@ -1,4 +1,4 @@
-package CodingTests;
+package Jan11_Coding;
 import java.util.Scanner;
 //Write a Java program to find the maximum of two numbers using the ternary operator.
 public class Jan11_04_GreaterNumberTernary {

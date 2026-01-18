@@ -1,4 +1,4 @@
-package CodingTests;
+package Jan11_Coding;
 
 public class Jan11_10_Even1To50_DoWhil {
     public static void main(String[] args) {
